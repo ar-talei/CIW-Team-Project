@@ -1,5 +1,6 @@
 .navstyle{
     background-color: transparent;
+    z-index: 9;
 }
 .section-one{
     background-image: url(../images/bg1.png);
@@ -9,7 +10,13 @@
     height: 700px;
     position: absolute;
     top: 0;
+    z-index: 8;
 }
-body{
-    background-color: black;
+.cellphone{
+    background-color: blue;
+    height: 600px;
+}
+.txtnbtns{
+    background-color: red;
+    height: 600px;
 }

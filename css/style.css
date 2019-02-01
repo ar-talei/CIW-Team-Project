@@ -1,3 +1,6 @@
+body{
+    font-family: iransans;
+}
 .navstyle{
     background-color: transparent;
     z-index: 9;
@@ -30,5 +33,13 @@ li:hover:after{
     background-color: black;
     margin-left: 30px;
     border-radius: 50%; 
+}
+.frstxt{
+    margin-top: 150px;
+    text-align: right;
+}
+.scndtxt{
+    margin-top: 50px;
+    text-align: right;
 }
 

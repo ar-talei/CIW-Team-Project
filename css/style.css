@@ -56,10 +56,12 @@ li:hover:after{
     color: #56aecb;
 }
 .h1txt{
-    font-size: 3rem;
+    font-size: 2.5rem;
+    line-height: 70px;
 }
 .h3txt{
-    font-size: 2rem;
+    font-size: 1.5rem;
+    line-height: 50px;
 }
 div.txtcntr1{
     text-align: center;

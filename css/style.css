@@ -61,12 +61,22 @@ li:hover:after{
 .h3txt{
     font-size: 2rem;
 }
-div.txtcntr{
+div.txtcntr1{
     text-align: center;
 }
-h2.txtcntr{
+h2.txtcntr1{
     color: #56aecb;
     margin-top: 50px;
+}
+div.txtcntr2{
+    text-align: center;
+}
+h2.txtcntr2{
+    color: #56aecb;
+    margin-top: 150px;
+}
+.txtcolor{
+    color: #56aecb; 
 }
 
 

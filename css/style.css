@@ -28,9 +28,9 @@ li:hover:after{
     content: "";
     display: block;
     width: 20px;
-    height: 5px;
+    height: 3px;
     background-color: black;
-    margin-left: 30px;
+    margin-left: 50%;
     border-radius: 50%; 
 }
 .frstxt{
